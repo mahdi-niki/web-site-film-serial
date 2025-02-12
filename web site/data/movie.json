@@ -1,0 +1,651 @@
+[
+  {
+    "id": 1,
+    "type": "movie",
+    "title": "The Dark Knight",
+    "release_date": "2008-07-18",
+    "image_url": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "genres": ["Action", "Crime", "Drama"],
+    "cast": [
+      { "actor": "Christian Bale", "character": "Bruce Wayne" },
+      { "actor": "Heath Ledger", "character": "Joker" }
+    ],
+    "description": "Batman faces chaos in Gotham City as the Joker unleashes terror, testing the limits of justice and morality."
+  },
+  {
+    "id": 2,
+    "type": "tv",
+    "title": "Stranger Things",
+    "release_date": "2016-07-15",
+    "seasons": 4,
+    "image_url": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+    "genres": ["Drama", "Fantasy"],
+    "cast": [
+      { "actor": "Millie Bobby Brown", "character": "Eleven" },
+      { "actor": "Finn Wolfhard", "character": "Mike" }
+    ],
+    "description": "A group of kids in a small town uncovers supernatural mysteries and government conspiracies."
+  },
+  {
+    "id": 3,
+    "type": "movie",
+    "title": "Inception",
+    "release_date": "2010-07-16",
+    "image_url": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "genres": ["Action", "Sci-Fi"],
+    "cast": [
+      { "actor": "Leonardo DiCaprio", "character": "Cobb" },
+      { "actor": "Tom Hardy", "character": "Eames" }
+    ],
+    "description": "A thief who enters dreams must plant an idea in a target's mind, blurring reality and imagination."
+  },
+  {
+    "id": 4,
+    "type": "tv",
+    "title": "Breaking Bad",
+    "release_date": "2008-01-20",
+    "seasons": 5,
+    "image_url": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+    "genres": ["Crime", "Drama"],
+    "cast": [
+      { "actor": "Bryan Cranston", "character": "Walter White" },
+      { "actor": "Aaron Paul", "character": "Jesse" }
+    ],
+    "description": "A chemistry teacher turned meth kingpin descends into the criminal underworld."
+  },
+  {
+    "id": 5,
+    "type": "movie",
+    "title": "Avengers: Endgame",
+    "release_date": "2019-04-26",
+    "image_url": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "genres": ["Action", "Adventure"],
+    "cast": [
+      { "actor": "Robert Downey Jr.", "character": "Iron Man" },
+      { "actor": "Chris Evans", "character": "Captain America" }
+    ],
+    "description": "The Avengers assemble for a final showdown to reverse Thanos' catastrophic snap."
+  },
+  {
+    "id": 6,
+    "type": "tv",
+    "title": "Game of Thrones",
+    "release_date": "2011-04-17",
+    "seasons": 8,
+    "image_url": "https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+    "genres": ["Action", "Drama"],
+    "cast": [
+      { "actor": "Emilia Clarke", "character": "Daenerys" },
+      { "actor": "Kit Harington", "character": "Jon Snow" }
+    ],
+    "description": "Noble families battle for control of the Iron Throne in a land of dragons and dark magic."
+  },
+  {
+    "id": 7,
+    "type": "movie",
+    "title": "Titanic",
+    "release_date": "1997-12-19",
+    "image_url": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "genres": ["Drama", "Romance"],
+    "cast": [
+      { "actor": "Leonardo DiCaprio", "character": "Jack" },
+      { "actor": "Kate Winslet", "character": "Rose" }
+    ],
+    "description": "A tragic love story unfolds aboard the ill-fated RMS Titanic."
+  },
+  {
+    "id": 8,
+    "type": "tv",
+    "title": "The Office (US)",
+    "release_date": "2005-03-24",
+    "seasons": 9,
+    "image_url": "https://image.tmdb.org/t/p/w500/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg",
+    "genres": ["Comedy"],
+    "cast": [
+      { "actor": "Steve Carell", "character": "Michael Scott" },
+      { "actor": "John Krasinski", "character": "Jim" }
+    ],
+    "description": "A mockumentary on the daily lives of office employees at Dunder Mifflin."
+  },
+  {
+    "id": 9,
+    "type": "movie",
+    "title": "Jurassic Park",
+    "release_date": "1993-06-11",
+    "image_url": "https://image.tmdb.org/t/p/w500/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg",
+    "genres": ["Adventure", "Sci-Fi"],
+    "cast": [
+      { "actor": "Sam Neill", "character": "Dr. Grant" },
+      { "actor": "Laura Dern", "character": "Dr. Sattler" }
+    ],
+    "description": "A theme park with cloned dinosaurs turns into a nightmare when security systems fail."
+  },
+  {
+    "id": 10,
+    "type": "tv",
+    "title": "The Mandalorian",
+    "release_date": "2019-11-12",
+    "seasons": 3,
+    "image_url": "https://image.tmdb.org/t/p/w500/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+    "genres": ["Action", "Sci-Fi"],
+    "cast": [
+      { "actor": "Pedro Pascal", "character": "Mandalorian" },
+      { "actor": "Gina Carano", "character": "Cara Dune" }
+    ],
+    "description": "A lone bounty hunter navigates the outer reaches of the galaxy, protecting a mysterious child."
+  },
+  {
+    "id": 11,
+    "type": "movie",
+    "title": "Pulp Fiction",
+    "release_date": "1994-10-14",
+    "image_url": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "genres": ["Crime", "Drama"],
+    "cast": [
+      { "actor": "John Travolta", "character": "Vincent Vega" },
+      { "actor": "Uma Thurman", "character": "Mia Wallace" }
+    ],
+    "description": "Interconnected stories of crime and redemption in Los Angeles."
+  },
+  {
+    "id": 12,
+    "type": "tv",
+    "title": "Friends",
+    "release_date": "1994-09-22",
+    "seasons": 10,
+    "image_url": "https://image.tmdb.org/t/p/w500/7buCWBTcyqzzNJfmtJN0io7OKJr.jpg",
+    "genres": ["Comedy", "Romance"],
+    "cast": [
+      { "actor": "Jennifer Aniston", "character": "Rachel Green" },
+      { "actor": "Courteney Cox", "character": "Monica Geller" }
+    ],
+    "description": "Six friends navigate life, love, and laughter in New York City."
+  },
+  {
+    "id": 13,
+    "type": "movie",
+    "title": "The Matrix",
+    "release_date": "1999-03-31",
+    "image_url": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "genres": ["Action", "Sci-Fi"],
+    "cast": [
+      { "actor": "Keanu Reeves", "character": "Neo" },
+      { "actor": "Laurence Fishburne", "character": "Morpheus" }
+    ],
+    "description": "A computer hacker discovers the truth about reality and joins a rebellion against machines."
+  },
+  {
+    "id": 14,
+    "type": "tv",
+    "title": "The Witcher",
+    "release_date": "2019-12-20",
+    "seasons": 3,
+    "image_url": "https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NWVxqNGrpDY.jpg",
+    "genres": ["Action", "Adventure"],
+    "cast": [
+      { "actor": "Henry Cavill", "character": "Geralt of Rivia" },
+      { "actor": "Anya Chalotra", "character": "Yennefer" }
+    ],
+    "description": "A monster hunter struggles to find his place in a world where people often prove more wicked than beasts."
+  },
+  {
+    "id": 15,
+    "type": "movie",
+    "title": "Forrest Gump",
+    "release_date": "1994-07-06",
+    "image_url": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+    "genres": ["Drama", "Romance"],
+    "cast": [
+      { "actor": "Tom Hanks", "character": "Forrest Gump" },
+      { "actor": "Robin Wright", "character": "Jenny Curran" }
+    ],
+    "description": "A man with a low IQ witnesses and unwittingly influences several defining historical events."
+  },
+  {
+    "id": 16,
+    "type": "tv",
+    "title": "The Crown",
+    "release_date": "2016-11-04",
+    "seasons": 5,
+    "image_url": "https://image.tmdb.org/t/p/w500/j7tqJ7vMnlVQkt60fliaNGWx2OU.jpg",
+    "genres": ["Drama", "History"],
+    "cast": [
+      { "actor": "Olivia Colman", "character": "Queen Elizabeth II" },
+      { "actor": "Claire Foy", "character": "Young Elizabeth" }
+    ],
+    "description": "The reign of Queen Elizabeth II and the events that shaped the second half of the 20th century."
+  },
+  {
+    "id": 17,
+    "type": "movie",
+    "title": "Gladiator",
+    "release_date": "2000-05-05",
+    "image_url": "https://image.tmdb.org/t/p/w500/tykZ7w4wQ5L2gSqIdFq0rLFjL1X.jpg",
+    "genres": ["Action", "Drama"],
+    "cast": [
+      { "actor": "Russell Crowe", "character": "Maximus" },
+      { "actor": "Joaquin Phoenix", "character": "Commodus" }
+    ],
+    "description": "A betrayed Roman general seeks vengeance against the corrupt emperor who murdered his family."
+  },
+  {
+    "id": 18,
+    "type": "tv",
+    "title": "Black Mirror",
+    "release_date": "2011-12-04",
+    "seasons": 6,
+    "image_url": "https://image.tmdb.org/t/p/w500/7PRddOlg1q7iyXv0X8G5qFNhWS2.jpg",
+    "genres": ["Sci-Fi", "Thriller"],
+    "cast": [
+      { "actor": "Daniel Lapaine", "character": "Various Roles" },
+      { "actor": "Hannah John-Kamen", "character": "Various Roles" }
+    ],
+    "description": "An anthology series exploring dark and dystopian themes of modern society and technology."
+  },
+  {
+    "id": 19,
+    "type": "movie",
+    "title": "The Lion King",
+    "release_date": "1994-06-24",
+    "image_url": "https://image.tmdb.org/t/p/w500/bKPtXn9n4M4s8vvZrbw40mYsefB.jpg",
+    "genres": ["Animation", "Adventure"],
+    "cast": [
+      { "actor": "Matthew Broderick", "character": "Simba (Voice)" },
+      { "actor": "James Earl Jones", "character": "Mufasa (Voice)" }
+    ],
+    "description": "A young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery."
+  },
+  {
+    "id": 20,
+    "type": "tv",
+    "title": "Sherlock",
+    "release_date": "2010-07-25",
+    "seasons": 4,
+    "image_url": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+    "genres": ["Crime", "Drama"],
+    "cast": [
+      { "actor": "Benedict Cumberbatch", "character": "Sherlock Holmes" },
+      { "actor": "Martin Freeman", "character": "Dr. Watson" }
+    ],
+    "description": "A modern update finds the famous sleuth and his doctor partner solving crimes in 21st-century London."
+  },
+  {
+    "id": 21,
+    "type": "movie",
+    "title": "Interstellar",
+    "release_date": "2014-11-07",
+    "image_url": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "genres": ["Sci-Fi", "Adventure"],
+    "cast": [
+      { "actor": "Matthew McConaughey", "character": "Cooper" },
+      { "actor": "Anne Hathaway", "character": "Brand" }
+    ],
+    "description": "A group of explorers travel through a wormhole in space to ensure humanity's survival."
+  },
+  {
+    "id": 22,
+    "type": "tv",
+    "title": "Narcos",
+    "release_date": "2015-08-28",
+    "seasons": 3,
+    "image_url": "https://image.tmdb.org/t/p/w500/5tqC9xJC9nLqfmT6hOOm3kBB1CH.jpg",
+    "genres": ["Crime", "Drama"],
+    "cast": [
+      { "actor": "Wagner Moura", "character": "Pablo Escobar" },
+      { "actor": "Pedro Pascal", "character": "Javier Peña" }
+    ],
+    "description": "The rise and fall of Colombian drug lord Pablo Escobar and the Medellín Cartel."
+  },
+  {
+    "id": 23,
+    "type": "movie",
+    "title": "The Social Network",
+    "release_date": "2010-10-01",
+    "image_url": "https://image.tmdb.org/t/p/w500/ok5Wh8385Kgblq9MSU4VGvazeMH.jpg",
+    "genres": ["Biography", "Drama"],
+    "cast": [
+      { "actor": "Jesse Eisenberg", "character": "Mark Zuckerberg" },
+      { "actor": "Andrew Garfield", "character": "Eduardo Saverin" }
+    ],
+    "description": "The story of the founding of Facebook and the legal battles that followed."
+  },
+  {
+    "id": 24,
+    "type": "tv",
+    "title": "Westworld",
+    "release_date": "2016-10-02",
+    "seasons": 4,
+    "image_url": "https://image.tmdb.org/t/p/w500/6aj09UTMQNyfSfk0JB8NTjscU0Y.jpg",
+    "genres": ["Sci-Fi", "Thriller"],
+    "cast": [
+      { "actor": "Evan Rachel Wood", "character": "Dolores" },
+      { "actor": "Thandiwe Newton", "character": "Maeve" }
+    ],
+    "description": "A futuristic theme park allows guests to live out their fantasies, but the androids begin to malfunction."
+  },
+  {
+    "id": 25,
+    "type": "movie",
+    "title": "The Shining",
+    "release_date": "1980-05-23",
+    "image_url": "https://image.tmdb.org/t/p/w500/9fgh3Ns1iRzlQNYuJyK0ARQZU7w.jpg",
+    "genres": ["Horror", "Drama"],
+    "cast": [
+      { "actor": "Jack Nicholson", "character": "Jack Torrance" },
+      { "actor": "Shelley Duvall", "character": "Wendy Torrance" }
+    ]
+  },
+  {
+    "id": 26,
+    "type": "tv",
+    "title": "The Big Bang Theory",
+    "release_date": "2007-09-24",
+    "seasons": 12,
+    "image_url": "https://image.tmdb.org/t/p/w500/ooBGRQBdbGzBxAVmExiU1iTkSbN.jpg",
+    "genres": ["Comedy"],
+    "cast": [
+      { "actor": "Jim Parsons", "character": "Sheldon Cooper" },
+      { "actor": "Kaley Cuoco", "character": "Penny" }
+    ]
+  },
+  {
+    "id": 27,
+    "type": "movie",
+    "title": "Fight Club",
+    "release_date": "1999-10-15",
+    "image_url": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "genres": ["Drama"],
+    "cast": [
+      { "actor": "Brad Pitt", "character": "Tyler Durden" },
+      { "actor": "Edward Norton", "character": "Narrator" }
+    ]
+  },
+  {
+    "id": 28,
+    "type": "tv",
+    "title": "Peaky Blinders",
+    "release_date": "2013-09-12",
+    "seasons": 6,
+    "image_url": "https://image.tmdb.org/t/p/w500/6PX0r5TRRU5y0jZ70y1OtbLYmoD.jpg",
+    "genres": ["Crime", "Drama"],
+    "cast": [
+      { "actor": "Cillian Murphy", "character": "Thomas Shelby" },
+      { "actor": "Tom Hardy", "character": "Alfie Solomons" }
+    ]
+  },
+  {
+    "id": 29,
+    "type": "movie",
+    "title": "The Grand Budapest Hotel",
+    "release_date": "2014-03-28",
+    "image_url": "https://image.tmdb.org/t/p/w500/nX5XotM9yprCKarRH4fzOaa11Wp.jpg",
+    "genres": ["Comedy", "Drama"],
+    "cast": [
+      { "actor": "Ralph Fiennes", "character": "M. Gustave" },
+      { "actor": "Tony Revolori", "character": "Zero" }
+    ]
+  },
+  {
+    "id": 30,
+    "type": "tv",
+    "title": "Vikings",
+    "release_date": "2013-03-03",
+    "seasons": 6,
+    "image_url": "https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+    "genres": ["Action", "Drama"],
+    "cast": [
+      { "actor": "Travis Fimmel", "character": "Ragnar Lothbrok" },
+      { "actor": "Katheryn Winnick", "character": "Lagertha" }
+    ]
+  },
+  {
+    "id": 31,
+    "type": "movie",
+    "title": "La La Land",
+    "release_date": "2016-12-09",
+    "image_url": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "genres": ["Musical", "Romance"],
+    "cast": [
+      { "actor": "Ryan Gosling", "character": "Sebastian" },
+      { "actor": "Emma Stone", "character": "Mia" }
+    ]
+  },
+  {
+    "id": 32,
+    "type": "tv",
+    "title": "The Walking Dead",
+    "release_date": "2010-10-31",
+    "seasons": 11,
+    "image_url": "https://image.tmdb.org/t/p/w500/rqeYMLryjcawh2JeCpCVUDcyMi3.jpg",
+    "genres": ["Horror", "Drama"],
+    "cast": [
+      { "actor": "Andrew Lincoln", "character": "Rick Grimes" },
+      { "actor": "Norman Reedus", "character": "Daryl Dixon" }
+    ]
+  },
+  {
+    "id": 33,
+    "type": "movie",
+    "title": "Dune",
+    "release_date": "2021-10-22",
+    "image_url": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "genres": ["Sci-Fi", "Adventure"],
+    "cast": [
+      { "actor": "Timothée Chalamet", "character": "Paul Atreides" },
+      { "actor": "Zendaya", "character": "Chani" }
+    ]
+  },
+  {
+    "id": 34,
+    "type": "tv",
+    "title": "Money Heist",
+    "release_date": "2017-05-02",
+    "seasons": 5,
+    "image_url": "https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+    "genres": ["Crime", "Drama"],
+    "cast": [
+      { "actor": "Úrsula Corberó", "character": "Tokyo" },
+      { "actor": "Álvaro Morte", "character": "The Professor" }
+    ]
+  },
+  {
+    "id": 35,
+    "type": "movie",
+    "title": "Joker",
+    "release_date": "2019-10-04",
+    "image_url": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "genres": ["Crime", "Drama"],
+    "cast": [
+      { "actor": "Joaquin Phoenix", "character": "Arthur Fleck" },
+      { "actor": "Robert De Niro", "character": "Murray Franklin" }
+    ]
+  },
+  {
+    "id": 36,
+    "type": "tv",
+    "title": "House of the Dragon",
+    "release_date": "2022-08-21",
+    "seasons": 1,
+    "image_url": "https://image.tmdb.org/t/p/w500/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+    "genres": ["Action", "Drama"],
+    "cast": [
+      { "actor": "Matt Smith", "character": "Daemon Targaryen" },
+      { "actor": "Emma D'Arcy", "character": "Rhaenyra Targaryen" }
+    ]
+  },
+  {
+    "id": 37,
+    "type": "movie",
+    "title": "Parasite",
+    "release_date": "2019-05-30",
+    "image_url": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "genres": ["Thriller", "Drama"],
+    "cast": [
+      { "actor": "Song Kang-ho", "character": "Kim Ki-taek" },
+      { "actor": "Lee Sun-kyun", "character": "Park Dong-ik" }
+    ]
+  },
+  {
+    "id": 38,
+    "type": "tv",
+    "title": "The Boys",
+    "release_date": "2019-07-26",
+    "seasons": 3,
+    "image_url": "https://image.tmdb.org/t/p/w500/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg",
+    "genres": ["Action", "Satire"],
+    "cast": [
+      { "actor": "Karl Urban", "character": "Billy Butcher" },
+      { "actor": "Antony Starr", "character": "Homelander" }
+    ]
+  },
+  {
+    "id": 39,
+    "type": "movie",
+    "title": "Top Gun: Maverick",
+    "release_date": "2022-05-27",
+    "image_url": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "genres": ["Action", "Drama"],
+    "cast": [
+      { "actor": "Tom Cruise", "character": "Pete 'Maverick' Mitchell" },
+      { "actor": "Miles Teller", "character": "Bradley 'Rooster' Bradshaw" }
+    ]
+  },
+  {
+    "id": 40,
+    "type": "tv",
+    "title": "Better Call Saul",
+    "release_date": "2015-02-08",
+    "seasons": 6,
+    "image_url": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+    "genres": ["Crime", "Drama"],
+    "cast": [
+      { "actor": "Bob Odenkirk", "character": "Jimmy McGill" },
+      { "actor": "Rhea Seehorn", "character": "Kim Wexler" }
+    ]
+  },
+  {
+    "id": 41,
+    "type": "movie",
+    "title": "Spider-Man: No Way Home",
+    "release_date": "2021-12-17",
+    "image_url": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "genres": ["Action", "Adventure"],
+    "cast": [
+      { "actor": "Tom Holland", "character": "Peter Parker" },
+      { "actor": "Zendaya", "character": "MJ" }
+    ]
+  },
+  {
+    "id": 42,
+    "type": "tv",
+    "title": "The Umbrella Academy",
+    "release_date": "2019-02-15",
+    "seasons": 3,
+    "image_url": "https://image.tmdb.org/t/p/w500/scZlQQYnDVlnpxFTxaIv2g0BWnL.jpg",
+    "genres": ["Action", "Fantasy"],
+    "cast": [
+      { "actor": "Elliot Page", "character": "Vanya Hargreeves" },
+      { "actor": "Tom Hopper", "character": "Luther Hargreeves" }
+    ]
+  },
+  {
+    "id": 43,
+    "type": "movie",
+    "title": "Black Panther",
+    "release_date": "2018-02-16",
+    "image_url": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "genres": ["Action", "Adventure"],
+    "cast": [
+      { "actor": "Chadwick Boseman", "character": "T'Challa" },
+      { "actor": "Michael B. Jordan", "character": "Killmonger" }
+    ]
+  },
+  {
+    "id": 44,
+    "type": "tv",
+    "title": "Ozark",
+    "release_date": "2017-07-21",
+    "seasons": 4,
+    "image_url": "https://image.tmdb.org/t/p/w500/pGM0v6R7qHYfj6RXGm4O9A92uQW.jpg",
+    "genres": ["Crime", "Drama"],
+    "cast": [
+      { "actor": "Jason Bateman", "character": "Marty Byrde" },
+      { "actor": "Laura Linney", "character": "Wendy Byrde" }
+    ]
+  },
+  {
+    "id": 45,
+    "type": "movie",
+    "title": "Whiplash",
+    "release_date": "2014-10-10",
+    "image_url": "https://image.tmdb.org/t/p/w500/lIv1QinFqz4dlp5U4lQ6HaiskOZ.jpg",
+    "genres": ["Drama", "Music"],
+    "cast": [
+      { "actor": "Miles Teller", "character": "Andrew Neiman" },
+      { "actor": "J.K. Simmons", "character": "Terence Fletcher" }
+    ]
+  },
+  {
+    "id": 46,
+    "type": "tv",
+    "title": "Chernobyl",
+    "release_date": "2019-05-06",
+    "seasons": 1,
+    "image_url": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+    "genres": ["Drama", "History"],
+    "cast": [
+      { "actor": "Jared Harris", "character": "Valery Legasov" },
+      { "actor": "Stellan Skarsgård", "character": "Boris Shcherbina" }
+    ]
+  },
+  {
+    "id": 47,
+    "type": "movie",
+    "title": "Mad Max: Fury Road",
+    "release_date": "2015-05-15",
+    "image_url": "https://image.tmdb.org/t/p/w500/hE24GYddaxB9MVZl1CaiI86M3kp.jpg",
+    "genres": ["Action", "Adventure"],
+    "cast": [
+      { "actor": "Tom Hardy", "character": "Max Rockatansky" },
+      { "actor": "Charlize Theron", "character": "Imperator Furiosa" }
+    ]
+  },
+  {
+    "id": 48,
+    "type": "tv",
+    "title": "The Last of Us",
+    "release_date": "2023-01-15",
+    "seasons": 1,
+    "image_url": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+    "genres": ["Action", "Drama"],
+    "cast": [
+      { "actor": "Pedro Pascal", "character": "Joel" },
+      { "actor": "Bella Ramsey", "character": "Ellie" }
+    ]
+  },
+  {
+    "id": 49,
+    "type": "movie",
+    "title": "Everything Everywhere All at Once",
+    "release_date": "2022-03-25",
+    "image_url": "https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVUrl5wLP6KMPRT.jpg",
+    "genres": ["Sci-Fi", "Comedy"],
+    "cast": [
+      { "actor": "Michelle Yeoh", "character": "Evelyn Wang" },
+      { "actor": "Ke Huy Quan", "character": "Waymond Wang" }
+    ]
+  },
+  {
+    "id": 50,
+    "type": "tv",
+    "title": "Succession",
+    "release_date": "2018-06-03",
+    "seasons": 4,
+    "image_url": "https://image.tmdb.org/t/p/w500/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+    "genres": ["Drama", "Satire"],
+    "cast": [
+      { "actor": "Brian Cox", "character": "Logan Roy" },
+      { "actor": "Jeremy Strong", "character": "Kendall Roy" }
+    ]
+  }
+]

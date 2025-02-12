@@ -1,0 +1,142 @@
+[
+    {
+      "id": 51,
+      "title": "Toy Story",
+      "release_date": "1995-11-22",
+      "image_url": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "genres": ["Animation", "Adventure", "Comedy"]
+    },
+    {
+      "id": 52,
+      "title": "Finding Nemo",
+      "release_date": "2003-05-30",
+      "image_url": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+      "genres": ["Animation", "Adventure", "Family"]
+    },
+    {
+      "id": 53,
+      "title": "Spirited Away",
+      "release_date": "2001-07-20",
+      "image_url": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "genres": ["Animation", "Adventure", "Family"]
+    },
+    {
+      "id": 54,
+      "title": "Frozen",
+      "release_date": "2013-11-27",
+      "image_url": "https://image.tmdb.org/t/p/w500/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg",
+      "genres": ["Animation", "Adventure", "Comedy"]
+    },
+    {
+      "id": 55,
+      "title": "Shrek",
+      "release_date": "2001-05-18",
+      "image_url": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "genres": ["Animation", "Adventure", "Comedy"]
+    },
+    {
+      "id": 56,
+      "title": "The Lion King",
+      "release_date": "1994-06-24",
+      "image_url": "https://image.tmdb.org/t/p/w500/bKPtXn9n4M4s8vvZrbw40mYsefB.jpg",
+      "genres": ["Animation", "Adventure", "Drama"]
+    },
+    {
+      "id": 57,
+      "title": "Zootopia",
+      "release_date": "2016-03-04",
+      "image_url": "https://image.tmdb.org/t/p/w500/sM33SANp9z6rXW8Itn7NnG1GOEs.jpg",
+      "genres": ["Animation", "Adventure", "Comedy"]
+    },
+    {
+      "id": 58,
+      "title": "Howl's Moving Castle",
+      "release_date": "2004-09-05",
+      "image_url": "https://image.tmdb.org/t/p/w500/6pZgH10jhpToPcf0uvyTCPFhWpI.jpg",
+      "genres": ["Animation", "Adventure", "Family"]
+    },
+    {
+      "id": 59,
+      "title": "Coco",
+      "release_date": "2017-11-22",
+      "image_url": "https://image.tmdb.org/t/p/w500/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg",
+      "genres": ["Animation", "Adventure", "Family"]
+    },
+    {
+      "id": 60,
+      "title": "Inside Out",
+      "release_date": "2015-06-19",
+      "image_url": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "genres": ["Animation", "Adventure", "Comedy"]
+    },
+    {
+      "id": 61,
+      "title": "Kung Fu Panda",
+      "release_date": "2008-06-06",
+      "image_url": "https://image.tmdb.org/t/p/w500/2Paj1nufT0jeSY0G4u3RC31HXa5.jpg",
+      "genres": ["Animation", "Action", "Adventure"]
+    },
+    {
+      "id": 62,
+      "title": "Moana",
+      "release_date": "2016-11-23",
+      "image_url": "https://image.tmdb.org/t/p/w500/z4x0Bp48ar3Mda8xPDmEXRsjN87.jpg",
+      "genres": ["Animation", "Adventure", "Comedy"]
+    },
+    {
+      "id": 63,
+      "title": "Wall-E",
+      "release_date": "2008-06-27",
+      "image_url": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQhQEmr.jpg",
+      "genres": ["Animation", "Adventure", "Family"]
+    },
+    {
+      "id": 64,
+      "title": "Ratatouille",
+      "release_date": "2007-06-29",
+      "image_url": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+      "genres": ["Animation", "Comedy", "Family"]
+    },
+    {
+      "id": 65,
+      "title": "Up",
+      "release_date": "2009-05-29",
+      "image_url": "https://image.tmdb.org/t/p/w500/vpbaStTMt8qqXaEgnOR2EE4DNJk.jpg",
+      "genres": ["Animation", "Adventure", "Comedy"]
+    },
+    {
+      "id": 66,
+      "title": "The Incredibles",
+      "release_date": "2004-11-05",
+      "image_url": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "genres": ["Animation", "Action", "Adventure"]
+    },
+    {
+      "id": 67,
+      "title": "My Neighbor Totoro",
+      "release_date": "1988-04-16",
+      "image_url": "https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+      "genres": ["Animation", "Family", "Fantasy"]
+    },
+    {
+      "id": 68,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "release_date": "2018-12-14",
+      "image_url": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "genres": ["Animation", "Action", "Adventure"]
+    },
+    {
+      "id": 69,
+      "title": "Soul",
+      "release_date": "2020-12-25",
+      "image_url": "https://image.tmdb.org/t/p/w500/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "genres": ["Animation", "Adventure", "Comedy"]
+    },
+    {
+      "id": 70,
+      "title": "The Lego Movie",
+      "release_date": "2014-02-07",
+      "image_url": "https://image.tmdb.org/t/p/w500/ckrusBaJ9UPA1Nug6R4wPOKN90t.jpg",
+      "genres": ["Animation", "Action", "Adventure"]
+    }
+  ]
